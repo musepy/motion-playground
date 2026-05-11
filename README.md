@@ -42,7 +42,7 @@ Each chapter ships **two artifacts**: a reference doc (in `topics/`) and a runna
 ## Quick start
 
 ```bash
-git clone https://github.com/muse40007-stack/motion-playground.git
+git clone https://github.com/musepy/motion-playground.git
 cd motion-playground
 open MotionPlayground.swiftpm/Package.swift
 ```
